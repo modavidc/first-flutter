@@ -1,6 +1,6 @@
-# first
+# first-flutter
 
-A new Flutter project.
+This is the application that results from completing Codelab 1 of Flutter.
 
 ## Getting Started
 
